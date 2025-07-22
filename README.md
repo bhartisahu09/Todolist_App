@@ -1,6 +1,6 @@
 # ToDo List App (Offline)
 
-A beautiful, professional Flutter ToDo List app with offline support.
+Flutter ToDo List app with offline support.
 
 ## Features
 - Add, edit, and delete tasks
@@ -15,7 +15,7 @@ A beautiful, professional Flutter ToDo List app with offline support.
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/bhartisahu09/Todolist_App
    cd todo_list_app_offline
    ```
 2. **Install dependencies:**
@@ -31,4 +31,4 @@ A beautiful, professional Flutter ToDo List app with offline support.
 
 | Task List | Add Task | Edit Task |
 |:---:|:---:|:---:|
-| ![Task List](screenshots/task.png) | ![Add Task](screenshots/add_task.png) | ![Edit Task](screenshots/edit_task.png) |
+|<img src="assets/screenshots/task.png" width="300"> | <img src="assets/screenshots/add_task.png" width="300"> | <img src="assets/screenshots/edit_task.png" width="300"> |
